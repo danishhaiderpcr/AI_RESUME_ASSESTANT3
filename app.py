@@ -321,7 +321,5 @@ def main() -> None:
     if "result" in st.session_state:
         st.divider()
         render_results(st.session_state["result"])
-
-
 if __name__ == "__main__":
     main()3
