@@ -322,4 +322,4 @@ def main() -> None:
         st.divider()
         render_results(st.session_state["result"])
 if __name__ == "__main__":
-    main()3
+    main()
